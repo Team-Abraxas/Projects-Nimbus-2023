@@ -6,7 +6,7 @@
 
 
 <p>
-In the realm of quantum computing, the journey from novice to expert can be intimidating and complex one. Bridging this gap is crucial to unlocking the true potential of quantum technologies. Our project: <b>The Quantum Breakout Game</b> by <b><a href="https://jaisarita.vercel.app/" target="_blank">Ashmit JaiSarita Gupta</a></b> is an initiative to help undergraduate freshers and beginners in learning one of the most fundamental concept of Quantum Computing: <b>Qubit Manipulation using Quantum Gates</b> easily in a gamified manner.
+In the realm of quantum computing, the journey from novice to expert can be an intimidating and complex one. Bridging this gap is crucial to unlocking the true potential of quantum technologies. Our project: <b>The Quantum Breakout Game</b> by <b><a href="https://jaisarita.vercel.app/" target="_blank">Ashmit JaiSarita Gupta</a></b> is an initiative to help undergraduate freshers and beginners in learning one of the most fundamental concepts of Quantum Computing: <b>Qubit Manipulation using Quantum Gates</b> easily in a gamified manner.
 </p>
 
 <p>
@@ -18,6 +18,8 @@ This game is highly inspired by the QPong game developed by Junye Huang. Ashmit 
 </p>
 
 # Game Demo
+https://github.com/Team-Abraxas/Projects-Nimbus-2023/assets/43639341/3a0a1933-c717-489d-956a-fbd8fba37091
+
 
 
 # Download & Install Instruction
@@ -27,14 +29,14 @@ This game is highly inspired by the QPong game developed by Junye Huang. Ashmit 
 4) Run the `main.py` file using the command: `python main.py`
 
 # Play Instruction
-- W, A, S, D Keys: Move the "Circuit Cursor" in the Quantum Circuit to the place where you want to add a gate in the circuit.
+- W, A, S, D Keys: Move the "Circuit Cursor" in the Quantum Circuit to where you want to add a gate in the circuit.
 - Backspace Key: Remove the gate present at the Circuit Cursor.
 - Delete Key: Clear the Quantum Circuit, i.e., remove all gates from the Quantum Circuit.
 - X Key: Add X Gate to the quantum circuit.
 - Y Key: Add Y Gate to the quantum circuit.
 - Z Key: Add Z Gate to the quantum circuit.
 - H Key: Add H Gate to the quantum circuit.
-- C, R, E Keys: Press C Key to convert the X, Y, Z, or H gates into CX, CY, CZ, and CH gates respectively, and then press R Key and F Key to the control to qubit above or below respectively.
+- C, R, E Keys: Press the C Key to convert the X, Y, Z, or H gates into CX, CY, CZ, and CH gates respectively, then press the R Key and F Key to the control to qubit above or below.
 - Q and E Keys: To convert X, Y, and Z into RX, RY, and RZ gates respectively. Q Key decreases the rotation angle by π/8 and E Key increases the rotation angle by π/8.
 
 # About the Project Developer
