@@ -1,4 +1,4 @@
-![Quantum Breakout Game](./QuantumBreakoutPoster.png)
+![Quantum Breakout](https://github.com/Team-Abraxas/Projects-Nimbus-2023/assets/43639341/639068d0-1f5b-4192-8a7b-a42835d16398)
 
 <h1 style="text-align:center">Quantum Breakout Game: Quantum Version of Classic Breakout Game</h1>
 
@@ -18,7 +18,9 @@ This game is highly inspired by the QPong game developed by Junye Huang. Ashmit 
 </p>
 
 # Game Demo
-https://github.com/Team-Abraxas/Projects-Nimbus-2023/assets/43639341/3a0a1933-c717-489d-956a-fbd8fba37091
+https://github.com/Team-Abraxas/Projects-Nimbus-2023/assets/43639341/46c7daa7-d433-4a3e-bc04-82f71291d7f7
+
+
 
 
 
